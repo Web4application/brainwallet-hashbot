@@ -8,7 +8,7 @@ Self-hosted · Mobile-first dashboard · One-command Docker deploy · API key en
 
 ## What it does
 
-Hashbot monitors the Braiins Hashpower Market orderbook every 2 minutes and keeps your bid at the optimal price automatically. Set which rank to target (default: 5th lowest active bid + 1 tick) and Hashbot handles the rest — including auto top-up when your budget runs low.
+Hashbot monitors the Braiins Hashpower Market orderbook every 2 minutes and keeps your bid at the optimal price automatically. Set which rank to target (default: 5th lowest active bid + 1 tick) and Hashbot handles the rest
 
 ## Features
 
