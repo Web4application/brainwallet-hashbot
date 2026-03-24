@@ -20,12 +20,6 @@ Hashbot monitors the Braiins Hashpower Market orderbook every 2 minutes and keep
 - API key validated against Braiins on entry, then encrypted with AES-128 (Fernet) and stored on disk — never in env vars, config files, or logs
 - Timezone-aware activity log and timestamps
 
-## Screenshots
-
-> Dashboard · Settings · First-run setup
-
-*(add screenshots here)*
-
 ---
 
 ## Requirements
