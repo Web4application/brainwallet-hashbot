@@ -123,12 +123,6 @@ Both containers share a single named Docker volume. The API key is the only cred
 
 ---
 
-## Contributing
-
-Pull requests welcome. Please open an issue first for significant changes.
-
----
-
 ## License
 
 MIT
